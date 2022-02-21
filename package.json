@@ -1,0 +1,31 @@
+{
+  "name": "@rowanmanning/validate-node-library",
+  "version": "0.0.0",
+  "description": "Tool to validate my Node.js libraries",
+  "author": "Rowan Manning (https://rowanmanning.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanmanning/validate-node-library.git"
+  },
+  "homepage": "https://github.com/rowanmanning/validate-node-library",
+  "bugs": "https://github.com/rowanmanning/validate-node-library/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8"
+  },
+  "scripts": {
+    "verify": "eslint ."
+  },
+  "dependencies": {
+    "dot-prop": "^7.2.0",
+    "glob": "^7.2.0",
+    "semver": "^7.3.5"
+  },
+  "devDependencies": {
+    "@rowanmanning/eslint-config": "^3.2.0",
+    "eslint": "^8.9.0"
+  },
+  "main": "lib/runner.js",
+  "bin": "bin/validate.js"
+}
