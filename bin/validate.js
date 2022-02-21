@@ -1,16 +1,48 @@
 #!/usr/bin/env node
 'use strict';
 
-const NodeProject = require('../lib/project/node');
 const GitProject = require('../lib/project/git');
+const manifest = require('../package.json');
+const NodeProject = require('../lib/project/node');
+const {program} = require('commander');
 const Runner = require('../lib/runner');
 
-const runner = new Runner({
-	basePath: process.cwd(),
-	log: console
-});
+program
+	.version(manifest.version)
+	.description('Validate a project')
+	.option(
+		'-f, --fix',
+		'whether to automatically fix issues',
+		false
+	)
+	.option(
+		'-t, --type <types...>',
+		'project types to validate against'
+	)
+	.action(async ({fix, type}) => {
 
-runner.addProjectArchetype(GitProject);
-runner.addProjectArchetype(NodeProject);
+		if (!Array.isArray(type)) {
+			return program.help();
+		}
 
-runner.run(process.argv.includes('--fix'));
+		// Create a test runner
+		const runner = new Runner({
+			basePath: process.cwd(),
+			log: console
+		});
+
+		// Add project archetypes
+		if (type.includes('git')) {
+			runner.log.info('Adding git project archetype');
+			runner.addProjectArchetype(GitProject);
+		}
+		if (type.includes('node')) {
+			runner.log.info('Adding node project archetype');
+			runner.addProjectArchetype(NodeProject);
+		}
+
+		// Run
+		runner.run(fix);
+
+	})
+	.parseAsync(process.argv);
