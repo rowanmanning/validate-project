@@ -27,6 +27,14 @@ Validate a general Git repo + Node.js project, and then auto-fix issues:
 npx @rowanmanning/validate-project --type git node --fix
 ```
 
+## Types
+
+The valid types are:
+
+  - `git`: the basics for a Git-based project
+  - `node`: the basics for a Node.js-based project
+  - `node-library`: a Node.js project published to npm
+
 
 ## License
 

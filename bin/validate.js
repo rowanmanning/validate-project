@@ -6,6 +6,7 @@ const manifest = require('../package.json');
 const NodeProject = require('../lib/project/node');
 const {program} = require('commander');
 const Runner = require('../lib/runner');
+const NodeLibraryProject = require('../lib/project/node-library');
 
 program
 	.version(manifest.version)
@@ -36,7 +37,10 @@ program
 			runner.log.info('Adding git project archetype');
 			runner.addProjectArchetype(GitProject);
 		}
-		if (type.includes('node')) {
+		if (type.includes('node-library')) {
+			runner.log.info('Adding node library project archetype');
+			runner.addProjectArchetype(NodeLibraryProject);
+		} else if (type.includes('node')) {
 			runner.log.info('Adding node project archetype');
 			runner.addProjectArchetype(NodeProject);
 		}
