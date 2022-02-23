@@ -35,14 +35,14 @@ program
 		// Add project archetypes
 		if (type.includes('git')) {
 			runner.log.info('Adding git project archetype');
-			runner.addProjectArchetype(GitProject);
+			runner.addProjectArchetype('git', GitProject);
 		}
 		if (type.includes('node-library')) {
 			runner.log.info('Adding node library project archetype');
-			runner.addProjectArchetype(NodeLibraryProject);
+			runner.addProjectArchetype('node-library', NodeLibraryProject);
 		} else if (type.includes('node')) {
 			runner.log.info('Adding node project archetype');
-			runner.addProjectArchetype(NodeProject);
+			runner.addProjectArchetype('node', NodeProject);
 		}
 
 		// Run

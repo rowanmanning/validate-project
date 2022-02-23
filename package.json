@@ -15,7 +15,9 @@
     "npm": ">=8"
   },
   "scripts": {
-    "verify": "eslint ."
+    "verify": "eslint .",
+    "project:verify": "npx --yes @rowanmanning/validate-project --type git node-library",
+    "project:fix": "npx --yes @rowanmanning/validate-project --type git node-library --fix"
   },
   "dependencies": {
     "commander": "^9.0.0",
