@@ -7,6 +7,7 @@ const NodeProject = require('../lib/project/node');
 const {program} = require('commander');
 const Runner = require('../lib/runner');
 const NodeLibraryProject = require('../lib/project/node-library');
+const NodeExpressAppProject = require('../lib/project/node-express-app');
 
 program
 	.version(manifest.version)
@@ -40,6 +41,9 @@ program
 		if (type.includes('node-library')) {
 			runner.log.info('Adding node library project archetype');
 			runner.addProjectArchetype('node-library', NodeLibraryProject);
+		} else if (type.includes('node-express-app')) {
+			runner.log.info('Adding node express app project archetype');
+			runner.addProjectArchetype('node-express-app', NodeExpressAppProject);
 		} else if (type.includes('node')) {
 			runner.log.info('Adding node project archetype');
 			runner.addProjectArchetype('node', NodeProject);
