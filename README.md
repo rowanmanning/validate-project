@@ -58,6 +58,8 @@ The valid types are:
 
   - `git`: the basics for a Git-based project
   - `node`: the basics for a Node.js-based project
+  - `node-arc-app`: a Node.js Architect-based application
+  - `node-express-app`: a Node.js Express-based application
   - `node-library`: a Node.js project published to npm
 
 
