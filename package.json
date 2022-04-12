@@ -22,7 +22,7 @@
   "dependencies": {
     "commander": "^9.0.0",
     "dot-prop": "^7.2.0",
-    "glob": "^7.2.0",
+    "glob": "^8.0.1",
     "jsdom": "^19.0.0",
     "marked": "^4.0.12",
     "semver": "^7.3.5",
