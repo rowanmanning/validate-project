@@ -1,4 +1,7 @@
+.commitlintrc.json
 .eslintrc.json
 .github
+.husky
+CHANGELOG.md
 docs
 test
