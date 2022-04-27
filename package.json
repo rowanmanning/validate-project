@@ -16,8 +16,8 @@
   },
   "scripts": {
     "verify": "eslint .",
-    "project:verify": "npx --yes @rowanmanning/validate-project --type git node-library",
-    "project:fix": "npx --yes @rowanmanning/validate-project --type git node-library --fix",
+    "project:verify": "npx --yes @rowanmanning/validate-project@2 --type git node-library",
+    "project:fix": "npx --yes @rowanmanning/validate-project@2 --type git node-library --fix",
     "prepare": "husky install"
   },
   "dependencies": {
