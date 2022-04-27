@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rowanmanning/validate-project/compare/v2.0.0...v2.1.0) (2022-04-27)
+
+
+### Features
+
+* pin the project commands to a major version ([7631afb](https://github.com/rowanmanning/validate-project/commit/7631afba98eded2aa6e1a42fef8c31825c5f961e))
+
 ## [2.0.0](https://github.com/rowanmanning/validate-project/compare/v1.12.0...v2.0.0) (2022-04-27)
 
 
