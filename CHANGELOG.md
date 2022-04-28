@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.2](https://github.com/rowanmanning/validate-project/compare/v2.2.1...v2.2.2) (2022-04-28)
+
+
+### Bug Fixes
+
+* always ignore husky and commitlint config ([623d4ed](https://github.com/rowanmanning/validate-project/commit/623d4ed148014360246424a6d53746a21d60b96c))
+
 ### [2.2.1](https://github.com/rowanmanning/validate-project/compare/v2.2.0...v2.2.1) (2022-04-28)
 
 
