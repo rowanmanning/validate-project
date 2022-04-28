@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.1](https://github.com/rowanmanning/validate-project/compare/v2.2.0...v2.2.1) (2022-04-28)
+
+
+### Bug Fixes
+
+* correct the dependabot commit config ([b0921f5](https://github.com/rowanmanning/validate-project/commit/b0921f5e4a918d9b106b5ea29a1d969ec4dbc6b8))
+
 ## [2.2.0](https://github.com/rowanmanning/validate-project/compare/v2.1.0...v2.2.0) (2022-04-27)
 
 
