@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/rowanmanning/validate-project/compare/v2.2.2...v2.3.0) (2022-04-29)
+
+
+### Features
+
+* customise the changelog sections ([7364527](https://github.com/rowanmanning/validate-project/commit/7364527599dbfe861e4df3cc1a6eb2144b513f7f))
+
+
+### Miscellaneous
+
+* customise this library's changelog sections ([4e18c80](https://github.com/rowanmanning/validate-project/commit/4e18c8038035e6da26b0a24430c071cb98fcff33))
+
 ### [2.2.2](https://github.com/rowanmanning/validate-project/compare/v2.2.1...v2.2.2) (2022-04-28)
 
 
