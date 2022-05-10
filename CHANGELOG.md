@@ -1,5 +1,18 @@
 # Changelog
 
+### [2.3.1](https://github.com/rowanmanning/validate-project/compare/v2.3.0...v2.3.1) (2022-05-10)
+
+
+### Bug Fixes
+
+* bump marked from 4.0.14 to 4.0.15 ([43db97f](https://github.com/rowanmanning/validate-project/commit/43db97f56466b38ca0291f9013f2b1c7e0fabe6e))
+
+
+### Miscellaneous
+
+* bump eslint from 8.14.0 to 8.15.0 ([20d821d](https://github.com/rowanmanning/validate-project/commit/20d821da7a432b72f7676a966394f8f05a5806cf))
+* bump husky from 7.0.4 to 8.0.1 ([382ebe6](https://github.com/rowanmanning/validate-project/commit/382ebe6c5ed051a14ea30153acbd4eeea5bf6ef5))
+
 ## [2.3.0](https://github.com/rowanmanning/validate-project/compare/v2.2.2...v2.3.0) (2022-04-29)
 
 
