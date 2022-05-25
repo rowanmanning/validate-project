@@ -1,5 +1,23 @@
 # Changelog
 
+### [2.3.2](https://github.com/rowanmanning/validate-project/compare/v2.3.1...v2.3.2) (2022-05-25)
+
+
+### Bug Fixes
+
+* bump glob from 8.0.1 to 8.0.3 ([e591a75](https://github.com/rowanmanning/validate-project/commit/e591a7501c8a47f31e0db8a39e4a121c6fe58402))
+* bump marked from 4.0.15 to 4.0.16 ([df15063](https://github.com/rowanmanning/validate-project/commit/df15063cbc740b05b8b4b3d71f04be353dc352fb))
+* bump yaml from 2.0.1 to 2.1.0 ([184f892](https://github.com/rowanmanning/validate-project/commit/184f8927ac5ee144c3ca354952bc5780e954d42e))
+
+
+### Miscellaneous
+
+* bump @commitlint/cli from 16.2.4 to 17.0.0 ([761c378](https://github.com/rowanmanning/validate-project/commit/761c3781b123543ce291231f0f6bf366e5e91c87))
+* bump @commitlint/cli from 17.0.0 to 17.0.1 ([841deca](https://github.com/rowanmanning/validate-project/commit/841decac861134bb609e3926679d16989ec8a7e3))
+* bump @commitlint/config-conventional from 16.2.4 to 17.0.0 ([4703be2](https://github.com/rowanmanning/validate-project/commit/4703be2dbba47dd26ec688e6aed812ad3ca571a7))
+* bump @rowanmanning/eslint-config from 3.4.0 to 3.5.0 ([ea11abe](https://github.com/rowanmanning/validate-project/commit/ea11abe3315b65849be98791ce7d194baea35f75))
+* bump eslint from 8.15.0 to 8.16.0 ([ea2ae94](https://github.com/rowanmanning/validate-project/commit/ea2ae94630c3a077e61ee9dffb6e822c1c56ff6c))
+
 ### [2.3.1](https://github.com/rowanmanning/validate-project/compare/v2.3.0...v2.3.1) (2022-05-10)
 
 
