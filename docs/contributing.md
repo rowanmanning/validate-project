@@ -41,10 +41,10 @@ I don't offer any guarantees on how long it will take me to review a PR or respo
 
 ### Linting
 
-this project is linted using [ESLint](https://eslint.org/), configured in the way I normally write JavaScript. Please keep to the existing style.
+This project is linted using [ESLint](https://eslint.org/), configured in the way I normally write JavaScript. Please keep to the existing style.
 
 ESLint errors will fail the build on any PRs. Most editors have an ESLint plugin which will pick up errors, but you can also run the linter manually with the following command:
 
 ```
-npm run verify
+npm run verify:eslint
 ```
