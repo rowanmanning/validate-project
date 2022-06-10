@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.4.0](https://github.com/rowanmanning/validate-project/compare/v2.3.2...v2.4.0) (2022-06-10)
+
+
+### Features
+
+* add typescript config management ([7f07f50](https://github.com/rowanmanning/validate-project/commit/7f07f50d4c0903364bfc3b67802c6c93c5bc0e9c))
+
+
+### Bug Fixes
+
+* bump yaml from 2.1.0 to 2.1.1 ([98d1a45](https://github.com/rowanmanning/validate-project/commit/98d1a4523c1555fd62d1bf91b5d7918c48cb060b))
+
+
+### Miscellaneous
+
+* bump @commitlint/cli from 17.0.1 to 17.0.2 ([67169ed](https://github.com/rowanmanning/validate-project/commit/67169ed6d21ab3d205af39587e7163e8ae873b95))
+* bump @commitlint/config-conventional from 17.0.0 to 17.0.2 ([82cef9c](https://github.com/rowanmanning/validate-project/commit/82cef9ce4e080541b36a8d12843ff09fde120666))
+* bump @rowanmanning/eslint-config from 3.5.0 to 4.0.2 ([241b8c1](https://github.com/rowanmanning/validate-project/commit/241b8c17548768e1ac4a45a4c08c695a86b521e0))
+* bump commander from 9.2.0 to 9.3.0 ([5b48a39](https://github.com/rowanmanning/validate-project/commit/5b48a391b69dfb173f4367debc5875d4dc830945))
+* bump eslint from 8.16.0 to 8.17.0 ([654cfc4](https://github.com/rowanmanning/validate-project/commit/654cfc407e286c887cd0cc724ac21862259435d3))
+
 ### [2.3.2](https://github.com/rowanmanning/validate-project/compare/v2.3.1...v2.3.2) (2022-05-25)
 
 
