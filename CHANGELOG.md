@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.4.1](https://github.com/rowanmanning/validate-project/compare/v2.4.0...v2.4.1) (2022-07-04)
+
+
+### Bug Fixes
+
+* bump jsdom from 19.0.0 to 20.0.0 ([ca9069a](https://github.com/rowanmanning/validate-project/commit/ca9069a13966ccda530fb0fc45447f9086e16321))
+* bump marked from 4.0.16 to 4.0.17 ([8f76f5b](https://github.com/rowanmanning/validate-project/commit/8f76f5bb77565278deca45dd87206a88772e89a5))
+
+
+### Miscellaneous
+
+* bump @commitlint/cli from 17.0.2 to 17.0.3 ([bece8b9](https://github.com/rowanmanning/validate-project/commit/bece8b9b5e62a4f205dc3ea92d8ba840b6993fd1))
+* bump @commitlint/config-conventional from 17.0.2 to 17.0.3 ([31c73e5](https://github.com/rowanmanning/validate-project/commit/31c73e5ff14b9b836346c4134d617153bd61ff93))
+* bump eslint from 8.17.0 to 8.19.0 ([e88ce86](https://github.com/rowanmanning/validate-project/commit/e88ce8661f087d7e7688c3c8b9e56290e95f352c))
+
 ## [2.4.0](https://github.com/rowanmanning/validate-project/compare/v2.3.2...v2.4.0) (2022-06-10)
 
 
