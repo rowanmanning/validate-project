@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.2](https://github.com/rowanmanning/validate-project/compare/v2.4.1...v2.4.2) (2022-07-09)
+
+
+### Bug Fixes
+
+* hide the misc changelog section ([6782bda](https://github.com/rowanmanning/validate-project/commit/6782bda28312a288b533d78b49728cffdcd63a4d))
+
 ## [2.4.1](https://github.com/rowanmanning/validate-project/compare/v2.4.0...v2.4.1) (2022-07-04)
 
 
