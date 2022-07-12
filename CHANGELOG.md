@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.3](https://github.com/rowanmanning/validate-project/compare/v2.4.2...v2.4.3) (2022-07-12)
+
+
+### Bug Fixes
+
+* bump marked from 4.0.17 to 4.0.18 ([593868e](https://github.com/rowanmanning/validate-project/commit/593868e2716947b06aa133618ea0b67918b868c9))
+
 ## [2.4.2](https://github.com/rowanmanning/validate-project/compare/v2.4.1...v2.4.2) (2022-07-09)
 
 
