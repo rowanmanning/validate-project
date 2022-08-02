@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.4](https://github.com/rowanmanning/validate-project/compare/v2.4.3...v2.4.4) (2022-08-02)
+
+
+### Bug Fixes
+
+* bump commander from 9.3.0 to 9.4.0 ([fec320c](https://github.com/rowanmanning/validate-project/commit/fec320c39764f0891ddf87dbc6ffd5645dcc7388))
+
 ## [2.4.3](https://github.com/rowanmanning/validate-project/compare/v2.4.2...v2.4.3) (2022-07-12)
 
 
