@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.5](https://github.com/rowanmanning/validate-project/compare/v2.4.4...v2.4.5) (2022-09-06)
+
+
+### Bug Fixes
+
+* bump marked from 4.0.18 to 4.0.19 ([0c0bfda](https://github.com/rowanmanning/validate-project/commit/0c0bfdab34bce93c6323702fbe6be3ffd35a0cb1))
+* bump marked from 4.0.19 to 4.1.0 ([7fc508b](https://github.com/rowanmanning/validate-project/commit/7fc508b49359ae16e368fdfd4e2c322726f323f2))
+
 ## [2.4.4](https://github.com/rowanmanning/validate-project/compare/v2.4.3...v2.4.4) (2022-08-02)
 
 
