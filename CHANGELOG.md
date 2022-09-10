@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/rowanmanning/validate-project/compare/v2.4.5...v2.5.0) (2022-09-10)
+
+
+### Features
+
+* add a commit section to contributing guide ([7c78342](https://github.com/rowanmanning/validate-project/commit/7c78342c32a4807d57b96a514fd2ded6a5aecbdc))
+
 ## [2.4.5](https://github.com/rowanmanning/validate-project/compare/v2.4.4...v2.4.5) (2022-09-06)
 
 
