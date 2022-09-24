@@ -11,8 +11,8 @@
   "bugs": "https://github.com/rowanmanning/validate-project/issues",
   "license": "MIT",
   "engines": {
-    "node": ">=16",
-    "npm": ">=8"
+    "node": "16.x || 18.x",
+    "npm": "8.x"
   },
   "scripts": {
     "verify": "npm run verify:eslint",
