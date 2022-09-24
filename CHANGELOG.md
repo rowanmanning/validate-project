@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.0](https://github.com/rowanmanning/validate-project/compare/v2.5.0...v2.6.0) (2022-09-24)
+
+
+### Features
+
+* enforce readable format for package engines ([ed183b9](https://github.com/rowanmanning/validate-project/commit/ed183b999e123725a5e8e6abc511bb5c4136316b))
+
 ## [2.5.0](https://github.com/rowanmanning/validate-project/compare/v2.4.5...v2.5.0) (2022-09-10)
 
 
