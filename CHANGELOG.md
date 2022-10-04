@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.6.1](https://github.com/rowanmanning/validate-project/compare/v2.6.0...v2.6.1) (2022-10-04)
+
+
+### Bug Fixes
+
+* bump commander from 9.4.0 to 9.4.1 ([3aae589](https://github.com/rowanmanning/validate-project/commit/3aae5893bc941910e5071a297e2c57041fad56e1))
+* bump jsdom from 20.0.0 to 20.0.1 ([a86a994](https://github.com/rowanmanning/validate-project/commit/a86a9946da2c3ff7f35c33fd4a2a2a32382ddfdd))
+* bump marked from 4.1.0 to 4.1.1 ([2d5aff9](https://github.com/rowanmanning/validate-project/commit/2d5aff99cf85c8ea0b504a00524f28c6160bb714))
+* bump yaml from 2.1.1 to 2.1.2 ([1ea8384](https://github.com/rowanmanning/validate-project/commit/1ea8384dffcd1f1e53f0ecf6bec5fc82aa20d388))
+
 ## [2.6.0](https://github.com/rowanmanning/validate-project/compare/v2.5.0...v2.6.0) (2022-09-24)
 
 
