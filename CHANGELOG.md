@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.2](https://github.com/rowanmanning/validate-project/compare/v2.6.1...v2.6.2) (2022-10-10)
+
+
+### Bug Fixes
+
+* bump semver from 7.3.7 to 7.3.8 ([9ce31f3](https://github.com/rowanmanning/validate-project/commit/9ce31f31f7bbf1463ff3bad03b87aaaa4a552731))
+* bump yaml from 2.1.2 to 2.1.3 ([aafaa76](https://github.com/rowanmanning/validate-project/commit/aafaa7645015e36cadf24c21644eef361541abf9))
+
 ## [2.6.1](https://github.com/rowanmanning/validate-project/compare/v2.6.0...v2.6.1) (2022-10-04)
 
 
