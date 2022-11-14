@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.7.0](https://github.com/rowanmanning/validate-project/compare/v2.6.3...v2.7.0) (2022-11-14)
+
+
+### Features
+
+* include type definitions in npm packages ([e9e17ac](https://github.com/rowanmanning/validate-project/commit/e9e17acb2a2bfafdf274620cc30126813c36f071))
+
+
+### Bug Fixes
+
+* bump marked from 4.2.1 to 4.2.2 ([dd19d90](https://github.com/rowanmanning/validate-project/commit/dd19d904181a314602ad34ee463f40924239a1c7))
+
 ## [2.6.3](https://github.com/rowanmanning/validate-project/compare/v2.6.2...v2.6.3) (2022-11-02)
 
 
