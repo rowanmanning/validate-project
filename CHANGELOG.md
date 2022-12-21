@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.1](https://github.com/rowanmanning/validate-project/compare/v2.7.0...v2.7.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* bump jsdom from 20.0.2 to 20.0.3 ([aac5c12](https://github.com/rowanmanning/validate-project/commit/aac5c120f09133481fe2d8cec82411ba506aad52))
+* bump marked from 4.2.2 to 4.2.4 ([dd731ad](https://github.com/rowanmanning/validate-project/commit/dd731adde0e038a8c754658753e8a7dce9412f55))
+
 ## [2.7.0](https://github.com/rowanmanning/validate-project/compare/v2.6.3...v2.7.0) (2022-11-14)
 
 
