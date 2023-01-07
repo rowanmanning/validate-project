@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.7.2](https://github.com/rowanmanning/validate-project/compare/v2.7.1...v2.7.2) (2023-01-07)
+
+
+### Bug Fixes
+
+* bump json5 from 2.2.1 to 2.2.3 ([885b6a0](https://github.com/rowanmanning/validate-project/commit/885b6a0177c98217d20cdbeecd5fc9639d9dfd72))
+* bump marked from 4.2.4 to 4.2.5 ([bc888d3](https://github.com/rowanmanning/validate-project/commit/bc888d3c2e3204d427b8b9469a2fddf67cf976f7))
+* bump yaml from 2.1.3 to 2.2.1 ([2f2dabc](https://github.com/rowanmanning/validate-project/commit/2f2dabc9743908957fbe2bf2f09964464f5fde79))
+
 ## [2.7.1](https://github.com/rowanmanning/validate-project/compare/v2.7.0...v2.7.1) (2022-12-21)
 
 
