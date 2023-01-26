@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.7.4](https://github.com/rowanmanning/validate-project/compare/v2.7.3...v2.7.4) (2023-01-26)
+
+
+### Bug Fixes
+
+* bump commander from 9.5.0 to 10.0.0 ([b8ece0d](https://github.com/rowanmanning/validate-project/commit/b8ece0da0f45895d9b4f77ff3222068b5acdda97))
+* bump glob from 8.0.3 to 8.1.0 ([9470d15](https://github.com/rowanmanning/validate-project/commit/9470d150ec01bf0a0beff03edb438ab34fe95cf5))
+* bump jsdom from 21.0.0 to 21.1.0 ([37019c2](https://github.com/rowanmanning/validate-project/commit/37019c2215740e0b92e319c065e444d2d568e64b))
+* bump marked from 4.2.5 to 4.2.12 ([8a0c962](https://github.com/rowanmanning/validate-project/commit/8a0c962828e432cefe9b0704716805457ed4dd21))
+
 ## [2.7.3](https://github.com/rowanmanning/validate-project/compare/v2.7.2...v2.7.3) (2023-01-11)
 
 
