@@ -12,7 +12,7 @@
   "license": "MIT",
   "engines": {
     "node": "16.x || 18.x",
-    "npm": "8.x"
+    "npm": "8.x || 9.x"
   },
   "scripts": {
     "verify": "npm run verify:eslint",
