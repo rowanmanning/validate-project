@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.0](https://github.com/rowanmanning/validate-project/compare/v2.8.0...v2.9.0) (2023-02-14)
+
+
+### Features
+
+* support npm v9 ([7d99f3f](https://github.com/rowanmanning/validate-project/commit/7d99f3fa60c4ae451c8af08c34ac871ce94a7235))
+* support npm v9 in package engines ([4d062e7](https://github.com/rowanmanning/validate-project/commit/4d062e7613f095f1546a617655368ffd0cf4bd25))
+
 ## [2.8.0](https://github.com/rowanmanning/validate-project/compare/v2.7.4...v2.8.0) (2023-02-14)
 
 
