@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.8.0](https://github.com/rowanmanning/validate-project/compare/v2.7.4...v2.8.0) (2023-02-14)
+
+
+### Features
+
+* add github actions to the dependabot config ([0f7b0b6](https://github.com/rowanmanning/validate-project/commit/0f7b0b685f6a4de0801a5b74499981e578beb8b1))
+* bump all GitHub action versions ([aaaf254](https://github.com/rowanmanning/validate-project/commit/aaaf254e7f537c7e8b97f0c96492372162bf444d))
+
 ## [2.7.4](https://github.com/rowanmanning/validate-project/compare/v2.7.3...v2.7.4) (2023-01-26)
 
 
