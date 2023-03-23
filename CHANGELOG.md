@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.1](https://github.com/rowanmanning/validate-project/compare/v2.9.0...v2.9.1) (2023-03-23)
+
+
+### Bug Fixes
+
+* bump jsdom from 21.1.0 to 21.1.1 ([a6d0855](https://github.com/rowanmanning/validate-project/commit/a6d0855e884428c80072083e35baa20afd577861))
+* bump marked from 4.2.12 to 4.3.0 ([e0169fc](https://github.com/rowanmanning/validate-project/commit/e0169fc238ca0d19989fa2e344d24141f35aa3e5))
+
 ## [2.9.0](https://github.com/rowanmanning/validate-project/compare/v2.8.0...v2.9.0) (2023-02-14)
 
 
