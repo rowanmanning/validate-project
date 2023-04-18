@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.2](https://github.com/rowanmanning/validate-project/compare/v2.9.1...v2.9.2) (2023-04-18)
+
+
+### Bug Fixes
+
+* bump commander from 10.0.0 to 10.0.1 ([a551a57](https://github.com/rowanmanning/validate-project/commit/a551a574675688c124b6f3d30bcfeb1b3a4933ef))
+* bump semver from 7.3.8 to 7.5.0 ([a6f5075](https://github.com/rowanmanning/validate-project/commit/a6f5075664202dbecbc9e029fe80b59bfa2d01ca))
+
 ## [2.9.1](https://github.com/rowanmanning/validate-project/compare/v2.9.0...v2.9.1) (2023-03-23)
 
 
