@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.3](https://github.com/rowanmanning/validate-project/compare/v2.9.2...v2.9.3) (2023-04-18)
+
+
+### Bug Fixes
+
+* add support for Node.js 20 ([d150080](https://github.com/rowanmanning/validate-project/commit/d150080333bc1d18244544d58753fca4b30e17c6))
+
 ## [2.9.2](https://github.com/rowanmanning/validate-project/compare/v2.9.1...v2.9.2) (2023-04-18)
 
 
