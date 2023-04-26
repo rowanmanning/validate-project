@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.4](https://github.com/rowanmanning/validate-project/compare/v2.9.3...v2.9.4) (2023-04-26)
+
+
+### Bug Fixes
+
+* bump dot-prop from 7.2.0 to 8.0.0 ([0a97f79](https://github.com/rowanmanning/validate-project/commit/0a97f7963ae16c614f7dae6005fa72ac0cad92ae))
+* bump yaml from 2.2.1 to 2.2.2 ([662b6b4](https://github.com/rowanmanning/validate-project/commit/662b6b4d4b4bb8ef216363b919a5281e566adac9))
+
 ## [2.9.3](https://github.com/rowanmanning/validate-project/compare/v2.9.2...v2.9.3) (2023-04-18)
 
 
