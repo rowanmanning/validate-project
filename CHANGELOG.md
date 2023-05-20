@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.9.5](https://github.com/rowanmanning/validate-project/compare/v2.9.4...v2.9.5) (2023-05-20)
+
+
+### Bug Fixes
+
+* bump jsdom from 21.1.1 to 22.0.0 ([429fda8](https://github.com/rowanmanning/validate-project/commit/429fda87927262dd0a0523c954ced9c66aa0b4ad))
+* bump marked from 4.3.0 to 5.0.2 ([fd0d674](https://github.com/rowanmanning/validate-project/commit/fd0d674a0a423bca38c0b2def88eb961823ba26b))
+* bump semver from 7.5.0 to 7.5.1 ([9c4ab06](https://github.com/rowanmanning/validate-project/commit/9c4ab06bdd3c9c960296760b05b2d1bd451b6f99))
+
 ## [2.9.4](https://github.com/rowanmanning/validate-project/compare/v2.9.3...v2.9.4) (2023-04-26)
 
 
