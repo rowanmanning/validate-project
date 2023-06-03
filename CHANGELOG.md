@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.9.6](https://github.com/rowanmanning/validate-project/compare/v2.9.5...v2.9.6) (2023-06-03)
+
+
+### Bug Fixes
+
+* bump jsdom from 22.0.0 to 22.1.0 ([d303596](https://github.com/rowanmanning/validate-project/commit/d303596e47c0b5940b239037d2461e4b43c77bc5))
+* bump marked from 5.0.2 to 5.0.4 ([0ebcab5](https://github.com/rowanmanning/validate-project/commit/0ebcab51cf9750598d684954d1580a95898a203b))
+* bump yaml from 2.2.2 to 2.3.1 ([c19f376](https://github.com/rowanmanning/validate-project/commit/c19f376678637739a9139df7cb0ea44cd110b66c))
+
 ## [2.9.5](https://github.com/rowanmanning/validate-project/compare/v2.9.4...v2.9.5) (2023-05-20)
 
 
