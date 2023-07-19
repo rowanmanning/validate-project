@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.9.8](https://github.com/rowanmanning/validate-project/compare/v2.9.7...v2.9.8) (2023-07-19)
+
+
+### Bug Fixes
+
+* bump dot-prop from 8.0.0 to 8.0.2 ([4351c46](https://github.com/rowanmanning/validate-project/commit/4351c46e8e0f796fc212951b58482d6a80ca2b87))
+* bump marked from 5.1.0 to 5.1.1 ([1e457a1](https://github.com/rowanmanning/validate-project/commit/1e457a14b2307f9d1f42985106abba90559d0095))
+* bump semver from 7.5.3 to 7.5.4 ([992dc5b](https://github.com/rowanmanning/validate-project/commit/992dc5b55902616a13efc528f4ac2fe6bd1e5d5a))
+* bump tough-cookie from 4.1.2 to 4.1.3 ([d0a1690](https://github.com/rowanmanning/validate-project/commit/d0a16904cae3ce943d5eac494e8cdfb967234b9b))
+* don't require chai ([db146d1](https://github.com/rowanmanning/validate-project/commit/db146d17bda76b480155b580ad2c7dbc912e33b2))
+
 ## [2.9.7](https://github.com/rowanmanning/validate-project/compare/v2.9.6...v2.9.7) (2023-06-27)
 
 
