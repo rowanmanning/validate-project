@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.11](https://github.com/rowanmanning/validate-project/compare/v2.9.10...v2.9.11) (2023-07-25)
+
+
+### Bug Fixes
+
+* bump marked from 5.1.1 to 5.1.2 ([3573423](https://github.com/rowanmanning/validate-project/commit/3573423938ad5395507087f037b76652b71a5edf))
+
 ## 2.9.10 (2023-07-25)
 
 
