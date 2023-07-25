@@ -1,5 +1,92 @@
 # Changelog
 
+## 2.9.10 (2023-07-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* require Release Please for Node libraries
+* enforce use of conventional commits
+
+### Features
+
+* add a commit section to contributing guide ([7c78342](https://github.com/rowanmanning/validate-project/commit/7c78342c32a4807d57b96a514fd2ded6a5aecbdc))
+* add github actions to the dependabot config ([0f7b0b6](https://github.com/rowanmanning/validate-project/commit/0f7b0b685f6a4de0801a5b74499981e578beb8b1))
+* add typescript config management ([7f07f50](https://github.com/rowanmanning/validate-project/commit/7f07f50d4c0903364bfc3b67802c6c93c5bc0e9c))
+* allow testing if a file is executable ([087f781](https://github.com/rowanmanning/validate-project/commit/087f781a1b2d827d561d27f16453b320c641f76d))
+* bump all GitHub action versions ([aaaf254](https://github.com/rowanmanning/validate-project/commit/aaaf254e7f537c7e8b97f0c96492372162bf444d))
+* customise the changelog sections ([7364527](https://github.com/rowanmanning/validate-project/commit/7364527599dbfe861e4df3cc1a6eb2144b513f7f))
+* enforce readable format for package engines ([ed183b9](https://github.com/rowanmanning/validate-project/commit/ed183b999e123725a5e8e6abc511bb5c4136316b))
+* enforce use of conventional commits ([f4ccad2](https://github.com/rowanmanning/validate-project/commit/f4ccad236a5c5c533c3736327fa1a041e8046983))
+* include type definitions in npm packages ([e9e17ac](https://github.com/rowanmanning/validate-project/commit/e9e17acb2a2bfafdf274620cc30126813c36f071))
+* pin the project commands to a major version ([7631afb](https://github.com/rowanmanning/validate-project/commit/7631afba98eded2aa6e1a42fef8c31825c5f961e))
+* require Release Please for Node libraries ([e2bf847](https://github.com/rowanmanning/validate-project/commit/e2bf8475c3eee6377f031ee65c7624d35b1e7b65))
+* set commit message options for dependabot ([b289399](https://github.com/rowanmanning/validate-project/commit/b2893990dffaf6d4f0292f9c2dd18336356a92a2))
+* support npm v9 ([7d99f3f](https://github.com/rowanmanning/validate-project/commit/7d99f3fa60c4ae451c8af08c34ac871ce94a7235))
+* support npm v9 in package engines ([4d062e7](https://github.com/rowanmanning/validate-project/commit/4d062e7613f095f1546a617655368ffd0cf4bd25))
+
+
+### Bug Fixes
+
+* add new file paths to .npmignore ([d745e38](https://github.com/rowanmanning/validate-project/commit/d745e38b36599ca238bf982536f5a7cc96666d0e))
+* add support for Node.js 20 ([d150080](https://github.com/rowanmanning/validate-project/commit/d150080333bc1d18244544d58753fca4b30e17c6))
+* always ignore husky and commitlint config ([623d4ed](https://github.com/rowanmanning/validate-project/commit/623d4ed148014360246424a6d53746a21d60b96c))
+* bump commander from 10.0.0 to 10.0.1 ([a551a57](https://github.com/rowanmanning/validate-project/commit/a551a574675688c124b6f3d30bcfeb1b3a4933ef))
+* bump commander from 10.0.1 to 11.0.0 ([6a6b6bf](https://github.com/rowanmanning/validate-project/commit/6a6b6bf66e2666716343078eee03d6f119ae7ed8))
+* bump commander from 9.3.0 to 9.4.0 ([fec320c](https://github.com/rowanmanning/validate-project/commit/fec320c39764f0891ddf87dbc6ffd5645dcc7388))
+* bump commander from 9.4.0 to 9.4.1 ([3aae589](https://github.com/rowanmanning/validate-project/commit/3aae5893bc941910e5071a297e2c57041fad56e1))
+* bump commander from 9.4.1 to 9.5.0 ([e5bec83](https://github.com/rowanmanning/validate-project/commit/e5bec83ceb4ffb74f182f1be4c813ced58551b03))
+* bump commander from 9.5.0 to 10.0.0 ([b8ece0d](https://github.com/rowanmanning/validate-project/commit/b8ece0da0f45895d9b4f77ff3222068b5acdda97))
+* bump dot-prop from 7.2.0 to 8.0.0 ([0a97f79](https://github.com/rowanmanning/validate-project/commit/0a97f7963ae16c614f7dae6005fa72ac0cad92ae))
+* bump dot-prop from 8.0.0 to 8.0.2 ([4351c46](https://github.com/rowanmanning/validate-project/commit/4351c46e8e0f796fc212951b58482d6a80ca2b87))
+* bump glob from 8.0.1 to 8.0.3 ([e591a75](https://github.com/rowanmanning/validate-project/commit/e591a7501c8a47f31e0db8a39e4a121c6fe58402))
+* bump glob from 8.0.3 to 8.1.0 ([9470d15](https://github.com/rowanmanning/validate-project/commit/9470d150ec01bf0a0beff03edb438ab34fe95cf5))
+* bump jsdom from 19.0.0 to 20.0.0 ([ca9069a](https://github.com/rowanmanning/validate-project/commit/ca9069a13966ccda530fb0fc45447f9086e16321))
+* bump jsdom from 20.0.0 to 20.0.1 ([a86a994](https://github.com/rowanmanning/validate-project/commit/a86a9946da2c3ff7f35c33fd4a2a2a32382ddfdd))
+* bump jsdom from 20.0.1 to 20.0.2 ([19be861](https://github.com/rowanmanning/validate-project/commit/19be86195e8765121fb360cc846e09e81d870eff))
+* bump jsdom from 20.0.2 to 20.0.3 ([aac5c12](https://github.com/rowanmanning/validate-project/commit/aac5c120f09133481fe2d8cec82411ba506aad52))
+* bump jsdom from 20.0.3 to 21.0.0 ([6c850ef](https://github.com/rowanmanning/validate-project/commit/6c850efef6b34ea83bfe4b155e866764e88da13a))
+* bump jsdom from 21.0.0 to 21.1.0 ([37019c2](https://github.com/rowanmanning/validate-project/commit/37019c2215740e0b92e319c065e444d2d568e64b))
+* bump jsdom from 21.1.0 to 21.1.1 ([a6d0855](https://github.com/rowanmanning/validate-project/commit/a6d0855e884428c80072083e35baa20afd577861))
+* bump jsdom from 21.1.1 to 22.0.0 ([429fda8](https://github.com/rowanmanning/validate-project/commit/429fda87927262dd0a0523c954ced9c66aa0b4ad))
+* bump jsdom from 22.0.0 to 22.1.0 ([d303596](https://github.com/rowanmanning/validate-project/commit/d303596e47c0b5940b239037d2461e4b43c77bc5))
+* bump json5 from 2.2.1 to 2.2.3 ([885b6a0](https://github.com/rowanmanning/validate-project/commit/885b6a0177c98217d20cdbeecd5fc9639d9dfd72))
+* bump marked from 4.0.14 to 4.0.15 ([43db97f](https://github.com/rowanmanning/validate-project/commit/43db97f56466b38ca0291f9013f2b1c7e0fabe6e))
+* bump marked from 4.0.15 to 4.0.16 ([df15063](https://github.com/rowanmanning/validate-project/commit/df15063cbc740b05b8b4b3d71f04be353dc352fb))
+* bump marked from 4.0.16 to 4.0.17 ([8f76f5b](https://github.com/rowanmanning/validate-project/commit/8f76f5bb77565278deca45dd87206a88772e89a5))
+* bump marked from 4.0.17 to 4.0.18 ([593868e](https://github.com/rowanmanning/validate-project/commit/593868e2716947b06aa133618ea0b67918b868c9))
+* bump marked from 4.0.18 to 4.0.19 ([0c0bfda](https://github.com/rowanmanning/validate-project/commit/0c0bfdab34bce93c6323702fbe6be3ffd35a0cb1))
+* bump marked from 4.0.19 to 4.1.0 ([7fc508b](https://github.com/rowanmanning/validate-project/commit/7fc508b49359ae16e368fdfd4e2c322726f323f2))
+* bump marked from 4.1.0 to 4.1.1 ([2d5aff9](https://github.com/rowanmanning/validate-project/commit/2d5aff99cf85c8ea0b504a00524f28c6160bb714))
+* bump marked from 4.1.1 to 4.2.1 ([a37b6ae](https://github.com/rowanmanning/validate-project/commit/a37b6ae838f26d4fba2b4f708c77579f350d8cab))
+* bump marked from 4.2.1 to 4.2.2 ([dd19d90](https://github.com/rowanmanning/validate-project/commit/dd19d904181a314602ad34ee463f40924239a1c7))
+* bump marked from 4.2.12 to 4.3.0 ([e0169fc](https://github.com/rowanmanning/validate-project/commit/e0169fc238ca0d19989fa2e344d24141f35aa3e5))
+* bump marked from 4.2.2 to 4.2.4 ([dd731ad](https://github.com/rowanmanning/validate-project/commit/dd731adde0e038a8c754658753e8a7dce9412f55))
+* bump marked from 4.2.4 to 4.2.5 ([bc888d3](https://github.com/rowanmanning/validate-project/commit/bc888d3c2e3204d427b8b9469a2fddf67cf976f7))
+* bump marked from 4.2.5 to 4.2.12 ([8a0c962](https://github.com/rowanmanning/validate-project/commit/8a0c962828e432cefe9b0704716805457ed4dd21))
+* bump marked from 4.3.0 to 5.0.2 ([fd0d674](https://github.com/rowanmanning/validate-project/commit/fd0d674a0a423bca38c0b2def88eb961823ba26b))
+* bump marked from 5.0.2 to 5.0.4 ([0ebcab5](https://github.com/rowanmanning/validate-project/commit/0ebcab51cf9750598d684954d1580a95898a203b))
+* bump marked from 5.0.4 to 5.1.0 ([e7d1324](https://github.com/rowanmanning/validate-project/commit/e7d1324c2e502cdbf911db648f6476b929ff5612))
+* bump marked from 5.1.0 to 5.1.1 ([1e457a1](https://github.com/rowanmanning/validate-project/commit/1e457a14b2307f9d1f42985106abba90559d0095))
+* bump semver from 7.3.7 to 7.3.8 ([9ce31f3](https://github.com/rowanmanning/validate-project/commit/9ce31f31f7bbf1463ff3bad03b87aaaa4a552731))
+* bump semver from 7.3.8 to 7.5.0 ([a6f5075](https://github.com/rowanmanning/validate-project/commit/a6f5075664202dbecbc9e029fe80b59bfa2d01ca))
+* bump semver from 7.5.0 to 7.5.1 ([9c4ab06](https://github.com/rowanmanning/validate-project/commit/9c4ab06bdd3c9c960296760b05b2d1bd451b6f99))
+* bump semver from 7.5.1 to 7.5.3 ([5a3228a](https://github.com/rowanmanning/validate-project/commit/5a3228a023b9814cf61aca420a82bc673685a0f1))
+* bump semver from 7.5.3 to 7.5.4 ([992dc5b](https://github.com/rowanmanning/validate-project/commit/992dc5b55902616a13efc528f4ac2fe6bd1e5d5a))
+* bump tough-cookie from 4.1.2 to 4.1.3 ([d0a1690](https://github.com/rowanmanning/validate-project/commit/d0a16904cae3ce943d5eac494e8cdfb967234b9b))
+* bump yaml from 2.0.1 to 2.1.0 ([184f892](https://github.com/rowanmanning/validate-project/commit/184f8927ac5ee144c3ca354952bc5780e954d42e))
+* bump yaml from 2.1.0 to 2.1.1 ([98d1a45](https://github.com/rowanmanning/validate-project/commit/98d1a4523c1555fd62d1bf91b5d7918c48cb060b))
+* bump yaml from 2.1.1 to 2.1.2 ([1ea8384](https://github.com/rowanmanning/validate-project/commit/1ea8384dffcd1f1e53f0ecf6bec5fc82aa20d388))
+* bump yaml from 2.1.2 to 2.1.3 ([aafaa76](https://github.com/rowanmanning/validate-project/commit/aafaa7645015e36cadf24c21644eef361541abf9))
+* bump yaml from 2.1.3 to 2.2.1 ([2f2dabc](https://github.com/rowanmanning/validate-project/commit/2f2dabc9743908957fbe2bf2f09964464f5fde79))
+* bump yaml from 2.2.1 to 2.2.2 ([662b6b4](https://github.com/rowanmanning/validate-project/commit/662b6b4d4b4bb8ef216363b919a5281e566adac9))
+* bump yaml from 2.2.2 to 2.3.1 ([c19f376](https://github.com/rowanmanning/validate-project/commit/c19f376678637739a9139df7cb0ea44cd110b66c))
+* correct the dependabot commit config ([b0921f5](https://github.com/rowanmanning/validate-project/commit/b0921f5e4a918d9b106b5ea29a1d969ec4dbc6b8))
+* don't require chai ([db146d1](https://github.com/rowanmanning/validate-project/commit/db146d17bda76b480155b580ad2c7dbc912e33b2))
+* hide the misc changelog section ([6782bda](https://github.com/rowanmanning/validate-project/commit/6782bda28312a288b533d78b49728cffdcd63a4d))
+* sort out broken releases ([3290c37](https://github.com/rowanmanning/validate-project/commit/3290c3728b497d3085093ddcd3240e261b96303e))
+* use node-prefixed modules ([cd3450b](https://github.com/rowanmanning/validate-project/commit/cd3450bb935642e1f3d21f640001825cb41a0c38))
+
 ## [2.9.8](https://github.com/rowanmanning/validate-project/compare/v2.9.7...v2.9.8) (2023-07-19)
 
 
