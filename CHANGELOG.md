@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.1](https://github.com/rowanmanning/validate-project/compare/v3.0.0...v3.0.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* correct package-lock.json versions ([5e724d0](https://github.com/rowanmanning/validate-project/commit/5e724d0371c702fe53276094184093e89d16970a))
+* use the v4 checkout action ([0ad04bb](https://github.com/rowanmanning/validate-project/commit/0ad04bb49fe7e0dae5fb6c7ed115994d71241bc4))
+
 ## [3.0.0](https://github.com/rowanmanning/validate-project/compare/v2.9.11...v3.0.0) (2023-09-11)
 
 
