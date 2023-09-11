@@ -15,7 +15,7 @@ This is just a tool to validate my coding projects. It forces me to be consisten
 
 This library requires the following to run:
 
-  * [Node.js](https://nodejs.org/) 16+
+  * [Node.js](https://nodejs.org/) 18+
 
 
 ## Usage

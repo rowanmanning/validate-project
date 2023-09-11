@@ -11,7 +11,7 @@
   "bugs": "https://github.com/rowanmanning/validate-project/issues",
   "license": "MIT",
   "engines": {
-    "node": "16.x || 18.x || 20.x",
+    "node": "18.x || 20.x",
     "npm": "8.x || 9.x"
   },
   "scripts": {
