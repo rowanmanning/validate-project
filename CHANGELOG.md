@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.0.0](https://github.com/rowanmanning/validate-project/compare/v2.9.11...v3.0.0) (2023-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node.js 16
+
+### Bug Fixes
+
+* bump yaml from 2.3.1 to 2.3.2 ([6cb5a98](https://github.com/rowanmanning/validate-project/commit/6cb5a9846d8442292159cbdec86d05a608e578cb))
+
+
+### Miscellaneous
+
+* drop support for Node.js 16 ([c56938e](https://github.com/rowanmanning/validate-project/commit/c56938eb863417cba22da9667f73da2b1f99dadd))
+
 ## [2.9.11](https://github.com/rowanmanning/validate-project/compare/v2.9.10...v2.9.11) (2023-07-25)
 
 
