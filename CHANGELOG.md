@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/rowanmanning/validate-project/compare/v3.0.1...v3.1.0) (2023-09-14)
+
+
+### Features
+
+* group development dependencies ([6c1c77c](https://github.com/rowanmanning/validate-project/commit/6c1c77c62bdfa2797170d5eac388471ba474fa5e))
+
 ## [3.0.1](https://github.com/rowanmanning/validate-project/compare/v3.0.0...v3.0.1) (2023-09-11)
 
 
