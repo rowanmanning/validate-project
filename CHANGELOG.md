@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/rowanmanning/validate-project/compare/v3.1.0...v3.1.1) (2023-10-06)
+
+
+### Bug Fixes
+
+* ignore jsconfig.json when publishing ([01f89d2](https://github.com/rowanmanning/validate-project/commit/01f89d280df20c8fe9b818a909f87c4b123ad91a))
+
 ## [3.1.0](https://github.com/rowanmanning/validate-project/compare/v3.0.1...v3.1.0) (2023-09-14)
 
 
