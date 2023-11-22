@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.1.2](https://github.com/rowanmanning/validate-project/compare/v3.1.1...v3.1.2) (2023-11-22)
+
+
+### Bug Fixes
+
+* bump commander from 11.0.0 to 11.1.0 ([01571ae](https://github.com/rowanmanning/validate-project/commit/01571aef4da5b426c56dd1e1de868df8f90de231))
+* bump yaml from 2.3.2 to 2.3.4 ([d638f22](https://github.com/rowanmanning/validate-project/commit/d638f22af590d265ce189996a5c880dfed8a9caf))
+* update setup-node action in the templates ([c599c95](https://github.com/rowanmanning/validate-project/commit/c599c954c20a94b2cdfa68bd63cb6e4ef336c1cb))
+
 ## [3.1.1](https://github.com/rowanmanning/validate-project/compare/v3.1.0...v3.1.1) (2023-10-06)
 
 
