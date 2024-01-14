@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.3](https://github.com/rowanmanning/validate-project/compare/v3.1.2...v3.1.3) (2024-01-14)
+
+
+### Bug Fixes
+
+* bump jsdom from 22.1.0 to 23.1.0 ([58a1860](https://github.com/rowanmanning/validate-project/commit/58a18606f67d54d78d5fbbde3eac71199522975a))
+* bump jsdom from 23.1.0 to 23.2.0 ([694902f](https://github.com/rowanmanning/validate-project/commit/694902fe6234c61f74a638ad0392048a69c23351))
+
 ## [3.1.2](https://github.com/rowanmanning/validate-project/compare/v3.1.1...v3.1.2) (2023-11-22)
 
 
