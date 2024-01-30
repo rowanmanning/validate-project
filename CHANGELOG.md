@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.4](https://github.com/rowanmanning/validate-project/compare/v3.1.3...v3.1.4) (2024-01-30)
+
+
+### Bug Fixes
+
+* migrate to husky v9 ([dcf9743](https://github.com/rowanmanning/validate-project/commit/dcf9743663c6395917b268eef2c154e568306064))
+
 ## [3.1.3](https://github.com/rowanmanning/validate-project/compare/v3.1.2...v3.1.3) (2024-01-14)
 
 
