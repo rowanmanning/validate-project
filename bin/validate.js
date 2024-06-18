@@ -4,7 +4,7 @@
 const GitProject = require('../lib/project/git');
 const manifest = require('../package.json');
 const NodeProject = require('../lib/project/node');
-const {program} = require('commander');
+const { program } = require('commander');
 const Runner = require('../lib/runner');
 const NodeLibraryProject = require('../lib/project/node-library');
 const NodeArcAppProject = require('../lib/project/node-arc-app');
@@ -13,17 +13,9 @@ const NodeExpressAppProject = require('../lib/project/node-express-app');
 program
 	.version(manifest.version)
 	.description('Validate a project')
-	.option(
-		'-f, --fix',
-		'whether to automatically fix issues',
-		false
-	)
-	.option(
-		'-t, --type <types...>',
-		'project types to validate against'
-	)
-	.action(async ({fix, type}) => {
-
+	.option('-f, --fix', 'whether to automatically fix issues', false)
+	.option('-t, --type <types...>', 'project types to validate against')
+	.action(async ({ fix, type }) => {
 		if (!Array.isArray(type)) {
 			return program.help();
 		}
@@ -55,6 +47,5 @@ program
 
 		// Run
 		runner.run(fix);
-
 	})
 	.parseAsync(process.argv);
