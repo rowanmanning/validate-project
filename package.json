@@ -15,8 +15,8 @@
     "npm": "8.x || 9.x"
   },
   "scripts": {
-    "verify": "npm run verify:eslint",
-    "verify:eslint": "eslint .",
+    "verify": "npm run verify:biome",
+    "verify:biome": "biome check",
     "project:verify": "npx --yes @rowanmanning/validate-project@3 --type git node-library",
     "project:fix": "npx --yes @rowanmanning/validate-project@3 --type git node-library --fix",
     "prepare": "husky"
@@ -33,8 +33,7 @@
   "devDependencies": {
     "@commitlint/cli": "^18.4.2",
     "@commitlint/config-conventional": "^18.4.2",
-    "@rowanmanning/eslint-config": "^8.0.0",
-    "eslint": "^8.9.0",
+    "@rowanmanning/biome-config": "^1.2.0",
     "husky": "^9.0.7"
   },
   "main": "lib/runner.js",
