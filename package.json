@@ -11,8 +11,7 @@
   "bugs": "https://github.com/rowanmanning/validate-project/issues",
   "license": "MIT",
   "engines": {
-    "node": "18.x || 20.x",
-    "npm": "8.x || 9.x"
+    "node": "18.x || 20.x"
   },
   "scripts": {
     "verify": "npm run verify:biome",
